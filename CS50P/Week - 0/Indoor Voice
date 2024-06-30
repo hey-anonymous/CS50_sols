@@ -1,0 +1,3 @@
+ask = input("Enter your string: ")
+ask = ask.lower()
+print(ask)
