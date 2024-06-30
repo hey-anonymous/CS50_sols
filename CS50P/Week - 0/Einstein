@@ -1,0 +1,3 @@
+ask_mass = int(input("Enter mass (in kg): "))
+e = ask_mass*300000000**2
+print(e)
